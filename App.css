@@ -140,7 +140,6 @@
   margin-bottom: 1.5rem;
   margin-left: 49px;
   font-weight: 700;
-
 }
 
 .right-panel {
@@ -166,7 +165,7 @@
   color: #e23028;
   border-radius: 0.3rem;
   cursor: pointer;
-  min-height: 137px;
+
   padding-top: 29px;
 }
 
@@ -203,7 +202,7 @@
   color: #007bff;
   border-radius: 0.3rem;
   cursor: pointer;
-  min-height: 137px;
+
   padding-top: 29px;
 }
 
@@ -230,7 +229,7 @@
   color: #28a745;
   border-radius: 0.3rem;
   cursor: pointer;
-  min-height: 137px;
+
   padding-top: 29px;
 }
 
@@ -257,7 +256,7 @@
   color: #6c757d;
   border-radius: 0.3rem;
   cursor: pointer;
-  min-height: 137px;
+
   padding-top: 29px;
 }
 
@@ -421,6 +420,7 @@
   font-size: 29px;
   font-weight: 500;
   border-radius: 0.2rem;
+  margin-bottom: 19px;
 }
 .covid19-name-style {
   max-width: 8.2rem;
